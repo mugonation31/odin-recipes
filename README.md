@@ -1,1 +1,1 @@
-This is a basic recipe website. This website will have links to recipes. I will learn how to create boilerplate HTML stucture, use headers, paragraphs, links, images and commit my code to GitHub plus many more..
+This is a basic recipe website. This website will have links to recipes. I will learn how to create boilerplate HTML structure, use headers, paragraphs, links, images and commit my code to GitHub plus many more..

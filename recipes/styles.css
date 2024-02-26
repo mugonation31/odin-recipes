@@ -1,0 +1,24 @@
+body{
+  background-color: bisque;
+}
+
+h1 {
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ text-decoration: underline; 
+}
+
+h4 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+  font-family:'Courier New', Courier, monospace
+}
+
+ul {
+  border: 1px solid red;
+}
+
+ol{
+   border: 1px solid green;
+}

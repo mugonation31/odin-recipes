@@ -1,0 +1,22 @@
+body {
+  background-color: beige;
+}
+
+#title {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: underline;
+}
+
+.recipes  {
+  list-style: none;
+}
+
+a {
+color: #5e9d37eb;
+text-decoration: none;
+}
+
+li {
+  margin-top: 10px; 
+  font-size: 18px;
+}

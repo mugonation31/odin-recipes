@@ -5,6 +5,7 @@ body {
 #title {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-decoration: underline;
+  margin-bottom: 40px;
 }
 
 .recipes  {
@@ -16,7 +17,14 @@ color: #5e9d37eb;
 text-decoration: none;
 }
 
+
 li {
   margin-top: 10px; 
   font-size: 18px;
+  border: 1px aliceblue solid;
+  display: inline;
+  padding: 10px;
+  margin-right: 8px;
+  background-color: aliceblue;
+  
 }
